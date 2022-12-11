@@ -5,6 +5,6 @@ public class Main {
         System.out.println("TR--");
         System.out.println("conflict");
 
-        System.out.println("squash");
+        System.out.println("squash ");
     }
 }
