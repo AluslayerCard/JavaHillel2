@@ -4,6 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("TR--");
         
-        System.out.println("conflict git");
+        System.out.println("conflict git ");
     }
 }
