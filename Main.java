@@ -1,6 +1,6 @@
 package homework16Tree;
 
-public class Main {
+public class MainTree {
     public static void main(String[] args) {
         Tree root =
                 new Tree(100,
